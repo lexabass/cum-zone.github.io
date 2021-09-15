@@ -678,7 +678,7 @@ hr {
 }
 
 footer{
- position: static;
+ position: absolute;
  bottom: 0;
 }
 .footer-distributed{
