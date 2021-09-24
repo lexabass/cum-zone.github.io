@@ -529,6 +529,7 @@ hr {
 	position: relative;
 	left: 550px;
 	top: -350px;
+    bottom: 10px;
 }
 
 .stickers_text {
