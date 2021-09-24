@@ -523,6 +523,10 @@ hr {
 }
 
 /*STICKERS TELEGRAM*/
+
+.stickers {
+	bottom: 20px;
+}
 .stickers_pic {
     display: flex;
     width: 350px;
